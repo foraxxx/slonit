@@ -20,4 +20,4 @@
 [Документация git](https://git-scm.com/doc)
 ---
 ![Картинка](https://img.freepik.com/premium-vector/cartoon-3d-character-developer-designer-working-laptop-web-app-development-deploy-frontend_808510-1455.jpg?w=996)
-`git commit -m "Спасибо за прочтение`
+`git commit -m "Спасибо за прочтение"`
